@@ -5,7 +5,8 @@ pipeline:
   - name: WhitespaceTokenizer
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
-  - name: CountVectorsFeaturizer
+  - name: CRFEntityExtractor
+  - name: SkearnIntentClassifier
   - name: CountVectorsFeaturizer
     analyzer: "char_wb"
     min_ngram: 1

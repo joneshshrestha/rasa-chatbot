@@ -2,8 +2,6 @@
 - hey
 - hello
 - hi
-- good morning
-- good evening
 - hey there
 
 ## intent:goodbye
@@ -11,6 +9,27 @@
 - goodbye
 - see you around
 - see you later
+- talk to you soon
+
+## intent:buy_phone_laptop
+- I would like to buy a [phone](category)
+- I want to buy a [laptop](category)
+- Please suggest me a good [laptop](category)
+- I wanted to purchase a [phone](category)
+- Can you recommend me a [laptop](category)
+- give me some recommendations for [mobile phones](category)
+- Can you suggest a [laptop](category)
+- I wanna buy a [phone](category)
+- Im interested in purchasing a [smartphone](category)
+
+## intent:latest_news_phones_laptops
+- Whats the latest news with [phones](category)
+- Can you tell me about the trends regarding [phones](category)
+- Whats going in the tech world for [laptops](category)
+- Can you show me the trends in [laptops](category)
+- Any new releases for [mobiles](category), whats the news
+- update me on the [mobile](category) news
+- show me the latest news for [mobiles](category)
 
 ## intent:affirm
 - yes
