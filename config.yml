@@ -6,7 +6,6 @@ pipeline:
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
   - name: CRFEntityExtractor
-  - name: SkearnIntentClassifier
   - name: CountVectorsFeaturizer
     analyzer: "char_wb"
     min_ngram: 1
