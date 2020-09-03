@@ -12,24 +12,24 @@
 - talk to you soon
 
 ## intent:buy_phone_laptop
-- I would like to buy a [phone](category)
+- I would like to buy a [phone]{"entity":"category","value":"phone"}
 - I want to buy a [laptop](category)
 - Please suggest me a good [laptop](category)
-- I wanted to purchase a [phone](category)
+- I wanted to purchase a [phone]{"entity":"category","value":"phone"}
 - Can you recommend me a [laptop](category)
-- give me some recommendations for [mobile phones](category)
+- give me some recommendations for [mobile phones]{"entity":"category","value":"phone"}
 - Can you suggest a [laptop](category)
 - I wanna buy a [phone](category)
-- Im interested in purchasing a [smartphone](category)
+- Im interested in purchasing a [smartphone]{"entity":"category","value":"phone"}
 
 ## intent:latest_news_phones_laptops
-- Whats the latest news with [phones](category)
-- Can you tell me about the trends regarding [phones](category)
+- Whats the latest news with [phones]{"entity":"category","value":"phone"}
+- Can you tell me about the trends regarding [phones]{"entity":"category","value":"phone"}
 - Whats going in the tech world for [laptops](category)
 - Can you show me the trends in [laptops](category)
-- Any new releases for [mobiles](category), whats the news
-- update me on the [mobile](category) news
-- show me the latest news for [mobiles](category)
+- Any new releases for [mobiles]{"entity":"category","value":"phone"}, whats the news
+- update me on the [mobile]{"entity":"category","value":"phone"} news
+- show me the latest news for [mobiles]{"entity":"category","value":"phone"}
 
 ## intent:affirm
 - yes
