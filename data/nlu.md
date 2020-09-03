@@ -21,6 +21,11 @@
 - Can you suggest a [laptop](category)
 - I wanna buy a [phone](category)
 - Im interested in purchasing a [smartphone]{"entity":"category","value":"phone"}
+- I want to buy a [refrigirator](category)
+- show me a new good [air conditioner](category)
+- please recommend me a [washing machine](category)
+
+ 
 
 ## intent:latest_news_phones_laptops
 - Whats the latest news with [phones]{"entity":"category","value":"phone"}
