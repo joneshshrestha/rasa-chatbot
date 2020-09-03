@@ -31,6 +31,14 @@
 - update me on the [mobile]{"entity":"category","value":"phone"} news
 - show me the latest news for [mobiles]{"entity":"category","value":"phone"}
 
+## synonym:phone
+- mobile
+- mobiles
+- smart phone
+
+# lookup:category
+data/lookup_tables/category.txt
+
 ## intent:affirm
 - yes
 - indeed
